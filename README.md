@@ -7,6 +7,8 @@ Remember that the library is just for drawing; it's not a game engine.. the poin
 
 Watch it in action: https://www.youtube.com/watch?v=p_46YQkaqR4&ab_channel=Ni7ram
 
+This was a testing ground to perfect the particles system, that were later used in my other game <a href="https://github.com/Ni7ram/Insane2">Insane 2</a>.
+
 <p align="center">
     <img 
         src="http://2.bp.blogspot.com/_ovc5nfOmCP0/SSNaxzgFQOI/AAAAAAAAAFY/GSZ4YZSlQPE/s1600/particulas.JPG" 
