@@ -1,0 +1,12 @@
+- terminar editor
+  - limites para la redimension de los limites
+  - amplidutE configurable con limites
+
+- system
+  - mas parametros (sprite a cargar, dimensiones, rota?, velocidad de rotacion, true = para siempre
+  - ver que onda con el renew que mucho no ayuda (?)
+  - 
+
+ordenar parametros (repensar) y funciones (orden)
+
+meter en game
