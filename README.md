@@ -1,4 +1,4 @@
-# ParticleEmitter
+# Particle Emitter
 Simple particle emitter made in C++ and Allegro (simple 2D graphic library)
 
 The library just let you draw primitives (or pixels) directly to the videocard memory. The pointer, double buffer, particle system, collision detection, timer and FPS counter were all made from scratch.
