@@ -16,5 +16,3 @@ This was a testing ground to perfect the particles system, that were later used 
         style="max-width:800px;width:100%"
     >
 </p>
-
-[<img src="https://img.youtube.com/vi/p_46YQkaqR4/maxresdefault.jpg" width="50%">](https://youtu.be/p_46YQkaqR4)
